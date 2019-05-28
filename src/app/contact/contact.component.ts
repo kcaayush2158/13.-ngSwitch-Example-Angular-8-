@@ -1,3 +1,4 @@
+import { Component, OnInit, Input,Output,EventEmitter } from '@angular/core';
 @Component({
   selector: 'app-contact',
   templateUrl: './contact.component.html',
